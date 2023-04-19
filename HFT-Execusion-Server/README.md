@@ -54,12 +54,12 @@ api_secret = "your_binance_api_secret"
 
 Refer to the src/config/mod.rs file for additional configuration options.
 
-Running the Server
+### Running the Server
 Start the HFT execution server:
 cargo run --release
 Monitor the logs for any errors or important information.
 
-Contributing
+### Contributing
 We welcome contributions to the HFT Execution Server project. Please follow these steps to 
 contribute:
 
@@ -69,17 +69,17 @@ Commit your changes and push them to your fork.
 Create a pull request describing your changes and submit it to the main repository.
 Please ensure your changes are well-documented and include appropriate tests.
 
-Reporting Issues
+### Reporting Issues
 If you encounter any issues or bugs while using the HFT Execution Server, please open an issue on the 
 GitHub repository. Be sure to provide detailed information about the issue, including steps to 
 reproduce the problem, the expected outcome, and any relevant logs or error messages.
 
-Feature Requests
+### Feature Requests
 We welcome feature requests for the HFT Execution Server. To request a new feature, please open an 
 issue on the GitHub repository and describe the desired functionality, its benefits, and any 
 potential implementation challenges.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
